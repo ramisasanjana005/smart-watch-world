@@ -1,0 +1,14 @@
+.product-container{
+    padding: 50px;
+        display: flex;
+
+}
+
+.product-details{
+    text-align: left;
+    padding-right: 100px;
+}
+.product-img img{
+    width: 500px;
+    height: 500px;
+}
